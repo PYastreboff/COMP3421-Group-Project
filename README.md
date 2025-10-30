@@ -1,3 +1,8 @@
-# ThirdPersonTemplate
+# COMP3421 - Computer Graphics 25T3
 
-Developed with Unreal Engine 5
+Tim Cook Fanclub
+- Peter
+- Justin
+- Michael
+- Ran
+- Irfan
